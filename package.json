@@ -18,7 +18,7 @@
     "lighthouse": "9.6.8",
     "performance-leaderboard": "^9.6.3",
     "short-hash": "^1.0.0",
-    "speedlify-score": "^2.0.2"
+    "speedlify-score": "^3.0.0"
   },
   "packageManager": "pnpm@8.7.1",
   "pnpm": {

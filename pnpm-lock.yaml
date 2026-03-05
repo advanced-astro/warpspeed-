@@ -20,8 +20,8 @@ devDependencies:
     specifier: ^2.0.16
     version: 2.10.15
   byte-size:
-    specifier: ^8.1.0
-    version: 8.2.1
+    specifier: ^9.0.0
+    version: 9.0.1
   fast-glob:
     specifier: ^3.2.12
     version: 3.3.3
@@ -1224,9 +1224,14 @@ packages:
       ieee754: 1.2.1
     dev: true
 
-  /byte-size@8.2.1:
-    resolution: {integrity: sha512-pph2jjc3PxRLeB2nWfJy/tMiHnS6j7xhDlkglBp3KlchnJkILdZ2DmUyZ8svDJ5Z+q431vbhuoiuOvuGhY8fjw==}
+  /byte-size@9.0.1:
+    resolution: {integrity: sha512-YLe9x3rabBrcI0cueCdLS2l5ONUKywcRpTs02B8KP9/Cimhj7o3ZccGrPnRvcbyHMbb7W79/3MUJl7iGgTXKEw==}
     engines: {node: '>=12.17'}
+    peerDependencies:
+      '@75lb/nature': latest
+    peerDependenciesMeta:
+      '@75lb/nature':
+        optional: true
     dev: true
 
   /camelcase@6.3.0:

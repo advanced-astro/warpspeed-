@@ -35,8 +35,8 @@ devDependencies:
     specifier: ^1.0.0
     version: 1.0.0
   speedlify-score:
-    specifier: ^2.0.2
-    version: 2.0.2
+    specifier: ^4.0.0
+    version: 4.0.5
 
 packages:
 
@@ -3346,8 +3346,8 @@ packages:
     resolution: {integrity: sha512-PEGlAwrG8yXGXRjW32fGbg66JAlOAwbObuqVoJpv/mRgoWDQfgH1wDPvtzWyUSNAXBGSk8h755YDbbcEy3SH2Q==}
     dev: true
 
-  /speedlify-score@2.0.2:
-    resolution: {integrity: sha512-FAFunl3H/faGETUX0tMh/fU0CZs5afqPR6Qm3I8xPVo9iLOZVhiDA6pUm5owXq4rSEb45y3Pf8iJqE6DmZiNvA==}
+  /speedlify-score@4.0.5:
+    resolution: {integrity: sha512-w0rVr6X0iX+Wfw/Mg4/u45nIXS7sjo295SaOeV61vDsPsT8oX7yHLKY7UeXs6Uhy5LsbypKo91JKhbCpB0XTdg==}
     dev: true
 
   /speedline-core@1.4.3:
